@@ -74,4 +74,8 @@ public class User {
                 '}';
     }
 
+    public void hotFix(){
+        System.out.println("hot!!!");
+    }
+
 }
